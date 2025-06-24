@@ -23,6 +23,12 @@ My primary programming language is **Python**, and I enjoy solving problems, wri
 
 ---
 
+### 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/x9e9jVlo9Y?theme=dark&font=Karma)](https://leetcode.com/u/x9e9jVlo9Y/)
+
+---
+
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rishitha-katragadda-7b1343353/)  
