@@ -44,4 +44,4 @@ My primary programming language is **Python**, and I enjoy solving problems, wri
 ---
 
 ### 🚀 Fun Fact
-I code better when the music is loud and the coffee is strong! ☕🎧
+I code better when the music is loud! ☕🎧
