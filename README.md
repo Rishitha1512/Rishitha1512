@@ -10,8 +10,7 @@
 
 ### 💻 About Me
 
-I'm a passionate **Full Stack Developer** who loves building seamless web applications.  
-My primary programming language is **Python**, and I enjoy solving problems, writing clean code, and constantly learning new things.
+I'm a passionate Full Stack Developer who loves building seamless web applications. My primary programming language is Python, and I enjoy solving problems, writing clean code, and constantly learning new things.
 
 ---
 
